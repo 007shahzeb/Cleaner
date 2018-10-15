@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="android.com.loginwithsiginfirebase">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+
+        <activity android:name="android.com.activities.ActivitySplash">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+
+        <activity android:name="android.com.activities.ActivitySignUp" />
+        <activity android:name="android.com.activities.ActivityForgetPassword" />
+        <activity android:name="android.com.activities.ActivitySelectLanguages" />
+        <activity android:name="android.com.activities.ActivitySiginIn" />
+        <activity android:name="android.com.activities.ActivityMain" />
+        <activity android:name="android.com.activities.DashboardActivity" />
+        <activity android:name="android.com.activities.ActivityCleanerProfile" />
+        <activity android:name="android.com.activities.ActivityPreviousJobs" />
+        <activity android:name="android.com.activities.ActivitySchedule" />
+
+
+        <activity android:name="android.com.activities.ActivityScheduleMonthly" />
+
+    </application>
+
+</manifest>

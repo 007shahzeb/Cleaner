@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "50096870367",
+    "firebase_url": "https://loginwithsiginfirebase-9472b.firebaseio.com",
+    "project_id": "loginwithsiginfirebase-9472b",
+    "storage_bucket": "loginwithsiginfirebase-9472b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50096870367:android:ed7a72d8d74a6534",
+        "android_client_info": {
+          "package_name": "android.com.loginwithsiginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50096870367-r6tgfuie2v7linigkjlqitq7e69apic6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyXN0dznieyCNeZ2JqN283JYeka3Sdldk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
